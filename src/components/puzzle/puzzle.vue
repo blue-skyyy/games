@@ -126,6 +126,7 @@ span {
 .container {
   height: 750px;
   width: 1334px;
+  margin: 0 auto;
   .puzzle-game-container {
     height: 100%;
     background-repeat: no-repeat;
